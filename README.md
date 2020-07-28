@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -1233,3 +1234,8 @@ São os arquivos utilizados no curso.</p>
   </body>
 </html>
 
+=======
+# cursophp7-dao
+Arquivos inicias da aula referente ao PDO DAO do curso de PHP 7 da Hcode
+São os arquivos utilizados no curso.
+>>>>>>> a95227f56a19122264f7d5b13b72a8f0f5dc9919
